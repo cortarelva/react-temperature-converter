@@ -1,0 +1,19 @@
+.card {
+  width: 280px;
+  height: 220px;
+  border: 1px solid;
+  background: lightskyblue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.inputhead {
+  display: inline-block;
+  margin-left: 5px;
+}
+.input {
+  margin-left: 1px;
+  width: 50px;
+}
+.title {
+  text-align: center;
+}
